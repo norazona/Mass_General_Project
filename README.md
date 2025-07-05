@@ -5,3 +5,4 @@ The goal of this project was to do an exploratory data analysis on synthetic dat
 
 Questions answered from this project:
 - How many total encounters occurred each year?
+- For each year, what percentage of all encounters belonged to each encounter class?
