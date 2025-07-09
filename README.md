@@ -9,3 +9,4 @@ Questions answered from this project:
 - What percentage of encounters were over 24 hours versus under 24 hours?
 - How many encounters had zero payer coverage, and what percentage of total encounters does this represent?
 - What are the top 10 most frequent procedures performed and the average base cost for each?
+- What is the average age of each patient?
